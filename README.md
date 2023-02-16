@@ -5,8 +5,8 @@
 <br />
 <hr />
 
-### Demo地址：
+### 演示 Demo ：
 
-https://kris.run/shortener/
+<a href = 'https://kris.run/shortener/' target="_blank">https://kris.run/shortener/</a>
 
 <hr />
