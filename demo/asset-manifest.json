@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f7a98c83.css",
+    "main.js": "./static/js/main.b8d80649.js",
+    "static/media/0x0-Roadster_04.jpg": "./static/media/0x0-Roadster_04.800d744a6de9cac315aa.jpg",
+    "static/media/0x0-Cyber_Rodeo_04.jpg": "./static/media/0x0-Cyber_Rodeo_04.ac7c032075a62fd1324a.jpg",
+    "static/media/0x0-Cybertruck_16.jpg": "./static/media/0x0-Cybertruck_16.494b4f5942f35c018356.jpg",
+    "index.html": "./index.html",
+    "main.f7a98c83.css.map": "./static/css/main.f7a98c83.css.map",
+    "main.b8d80649.js.map": "./static/js/main.b8d80649.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a98c83.css",
+    "static/js/main.b8d80649.js"
+  ]
+}

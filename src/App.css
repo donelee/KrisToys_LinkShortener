@@ -1,0 +1,11 @@
+/* 隐藏滚动条 */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* 修改全局超链接格式 */
+a:-webkit-any-link {
+  color: #1565c0;
+  cursor: pointer;
+  text-decoration: none;
+}
