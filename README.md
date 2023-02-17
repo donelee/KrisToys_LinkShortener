@@ -7,6 +7,8 @@
 
 ### 演示 Demo ：
 
-<a href = 'https://kris.run/shortener/' target="_blank">https://kris.run/shortener/</a>
+https://kris.run/shortener/
+<br />
+https://mtt.show/
 
 <hr />
